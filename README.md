@@ -1,2 +1,0 @@
-# ImagLoad
-Created with CodeSandbox
